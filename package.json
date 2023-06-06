@@ -1,0 +1,27 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "Netflix clone using reactjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advi729/netflix-clone.git"
+  },
+  "author": "Adal Adwaid Vikas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Advi729/netflix-clone/issues"
+  },
+  "homepage": "https://github.com/Advi729/netflix-clone#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  }
+}
