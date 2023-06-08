@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Netflix clone using reactjs",
   "scripts": {
-    "start": "parcel index.html",
+    "start": "parcel index.html --port 3002",
     "build": "parcel build index.html",
     "test": "jest"
   },
